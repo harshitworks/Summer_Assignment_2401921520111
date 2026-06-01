@@ -1,3 +1,5 @@
+package Week_1.Day_1;
+
 import  java.util.*;
 public class TwoSum {
     public int[] twoSum(int[] nums, int target) {
