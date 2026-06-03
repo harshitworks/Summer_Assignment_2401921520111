@@ -10,12 +10,14 @@ public class Move_Zeroes {
             if(nums[l]!=0) {
                 nums[k++]=nums[l];
             }
+
             l++;
         }
         // filling the last cell with 0
         while(k<n) {
             nums[k++]=0;
         }
+
 
     }
 }
