@@ -1,6 +1,7 @@
-out/
+# IntelliJ IDEA
 .idea/
-*.class
+*.iml
 
-/.idea/
-.idea
+# Build files
+out/
+*.class
