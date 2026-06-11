@@ -41,7 +41,7 @@ Summer_Assignment_2401921520111
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/harshitworks/Summer_Assignment_2401921520111
    ```
 
 2. Open the project in IntelliJ IDEA.
