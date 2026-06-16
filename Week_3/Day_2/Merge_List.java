@@ -10,7 +10,7 @@ package Week_3.Day_2;
      ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  }
 
-class Solution {
+class Merge_List {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         ListNode tail = new ListNode(-1);
         ListNode dummy = tail;          // works like an index -1 for an array 
