@@ -1,6 +1,6 @@
 package Week_3.Day_2;
 
-class Remove_Node {
+public class Remove_Node {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         if(head==null) return null;
 
