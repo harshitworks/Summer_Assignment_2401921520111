@@ -22,6 +22,7 @@ public class Remove_Node {
         pre.next=Next;
 
         return head;
+
         
     }
 }
